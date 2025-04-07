@@ -8,6 +8,9 @@ table {
     background-color: palegreen;
 
 }
+td{
+    vertical-align: top;
+}
 h2{ 
     color: darkgreen;
 
@@ -17,4 +20,6 @@ img {
     margin: auto;
     border: 1px solid black;
 }
-
+hr {
+    width: 50%;
+}
